@@ -1,11 +1,16 @@
 # WriteIt
 Do you want to write text on a **CC:Tweaked monitor** but want to keep it simple?
 Simply follow the intuitive instructions on the terminal and your monitor will be up and running in no time!
-### Showcase
+
+<details>
+<summary> ### Showcase</summary>
+<br>
+
 ![Terminal](https://i.imgur.com/SIj2fGF.png)
 ![Hello world](https://i.imgur.com/ns26QAJ.png)
 ![Get rick rolled lmao](https://i.imgur.com/paRczaO.png)
-### Installation
+</details>
+## Installation
 The **installation** is super simple and shouldn't take more than a minute:
 1. Open the CC:Tweaked computer (advanced computer works too).
 2. Type `pastebin get kzNsFCkD write`.
@@ -14,6 +19,7 @@ The **installation** is super simple and shouldn't take more than a minute:
 
 To **uninstall the program**, type `delete write` in the directory where you installed it.
 
+## Host the script on your own
 If the pastebin link gets removed/doesn't work, you can **host the script on your own**:
 1. Copy the content of the `app.lua` file.
 2. Go to [Pastebin](https://pastebin.com/) and paste everything you copied under "New paste".
