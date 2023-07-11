@@ -3,13 +3,14 @@ Do you want to write text on a **CC:Tweaked monitor** but want to keep it simple
 Simply follow the intuitive instructions on the terminal and your monitor will be up and running in no time!
 
 <details>
-<summary> ### Showcase</summary>
+<summary> Showcase</summary>
 <br>
 
 ![Terminal](https://i.imgur.com/SIj2fGF.png)
 ![Hello world](https://i.imgur.com/ns26QAJ.png)
 ![Get rick rolled lmao](https://i.imgur.com/paRczaO.png)
 </details>
+
 ## Installation
 The **installation** is super simple and shouldn't take more than a minute:
 1. Open the CC:Tweaked computer (advanced computer works too).
